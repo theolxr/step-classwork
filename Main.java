@@ -4,7 +4,7 @@ public class Main {
 
 		int x = 20;
 
-		if ( x%2 == 0){
+		if ( x%2 == 0) {
 			System.out.println("Par");
 		}
 		else{
